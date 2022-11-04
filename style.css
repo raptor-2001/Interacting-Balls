@@ -1,0 +1,14 @@
+canvas{
+  border: 1px solid #000;
+  margin: auto;
+  width: fit-content;
+}
+
+body{
+  margin: 0;
+  /* background-color: royalblue; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
